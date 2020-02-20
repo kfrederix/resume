@@ -8,11 +8,11 @@
     "website": "http://karel.frederix.be",
     "summary": "I’m a full stack web developer who's passionate about (web-) technology and (hybrid) mobile app development. I can build applications from the ground up, from backend architecture to frontend implementation. I enjoy fiddling with new tools/frameworks/languages/servers, acquiring new skills along the way.\n\nProud father of 2 beautiful children.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
+      "address": "Corda Campus",
+      "postalCode": "3500",
+      "city": "Hasselt",
       "countryCode": "BE",
-      "region": "Hasselt, Belgium"
+      "region": "Limburg"
     },
     "profiles": [
       {
@@ -232,7 +232,7 @@
   "skills": [
     {
       "name": "Frontend",
-      "level": "Senior",
+      "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS / SASS",
@@ -243,12 +243,12 @@
     },
     {
       "name": "Backend",
-      "level": "Senior",
+      "level": "Advanced",
       "keywords": ["Node.js", "C# / .NET", "SQL Server", "MongoDB", "Redis"]
     },
     {
       "name": "DevOps",
-      "level": "Medior",
+      "level": "Intermediate",
       "keywords": ["Azure", "AWS", "Docker"]
     }
   ],

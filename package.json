@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx resume export dist/index.html --theme flat",
+    "build": "npx resume export dist/index.html --theme kwan",
     "build-pdf": "npx resume export dist/resume_karel_frederix.pdf"
   },
   "author": "Karel Frederix",
@@ -12,5 +12,7 @@
   "devDependencies": {
     "resume-cli": "^1.2.7"
   },
-  "dependencies": {}
+  "dependencies": {
+    "jsonresume-theme-kwan": "0.0.2"
+  }
 }
