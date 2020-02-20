@@ -1,0 +1,280 @@
+{
+  "basics": {
+    "name": "Karel Frederix",
+    "picture": "https://avatars0.githubusercontent.com/u/3974918?v=4",
+    "label": "Full stack developer",
+    "email": "karelfrederix@gmail.com",
+    "phone": "+32 (0)479 446 121",
+    "website": "http://karel.frederix.be",
+    "summary": "I’m a full stack web developer who's passionate about (web-) technology and (hybrid) mobile app development. I can build applications from the ground up, from backend architecture to frontend implementation. I enjoy fiddling with new tools/frameworks/languages/servers, acquiring new skills along the way.\n\nProud father of 2 beautiful children.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "BE",
+      "region": "Hasselt, Belgium"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/kfrederix",
+        "username": "kfrederix"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "QuESD",
+      "position": "Software Engineer",
+      "website": "https://soccerlab.com",
+      "location": "Hasselt, Belgium",
+      "summary": "Architecture and development on  the company's main software products: SoccerLAB, TennisLife and Panega. These  sports tech solutions are centralized information and management systems, designed to support the complete technical staff, management and players of sports organizations. They combine data and video in one solution.",
+      "isCurrentRole": true,
+      "startDate": "2015-07-01",
+      "start": {
+        "year": 2015,
+        "month": 7
+      },
+      "highlights": [
+        "Implement automated deployment system using Jenkins",
+        "Set up and maintain build pipelines using Jenkins and Azure DevOps",
+        "Set up Node.js (micro-)service for report rendering with Express framework and jsreport-core",
+        "Implement API gateway for mobile apps using LoopBack with MongoDB",
+        "Maintain/administer backend C# code base",
+        "Lead a small team of devs  working on a suite of mobile apps, using Ionic / Angular",
+        "Implement advanced authentication system using Auth0"
+      ]
+    },
+    {
+      "company": "TinkerTouch",
+      "position": "Software Architect/Developer",
+      "website": "",
+      "location": "Diepenbeek, Belgium",
+      "summary": "Worked on numerous challenging software projects, most of which involved communicating directly with clients in order to develop custom software solutions. Most of these projects are focused on user interfaces for tv-size (32” - 55”) multi-touch screens.\nApplications range from cms-powered interactive multimedia presentations to educational games for children.",
+      "isCurrentRole": false,
+      "startDate": "2011-03-01",
+      "endDate": "2015-06-01",
+      "start": {
+        "year": 2011,
+        "month": 3
+      },
+      "end": {
+        "year": 2015,
+        "month": 6
+      },
+      "highlights": []
+    },
+    {
+      "company": "EDM / Hasselt University",
+      "position": "Researcher",
+      "website": "",
+      "location": "Diepenbeek, Belgium",
+      "summary": "Worked on several research projects at EDM, which is the ICT research institute of Hasselt University.",
+      "isCurrentRole": false,
+      "startDate": "2006-12-01",
+      "endDate": "2012-04-01",
+      "start": {
+        "year": 2006,
+        "month": 12
+      },
+      "end": {
+        "year": 2012,
+        "month": 4
+      },
+      "highlights": [
+        "EFRO - GameHUB project:\nWas responsible for the implementation of the UNIZO game: an educational game focussed on entrepreneurship. The implementation was done with the delightful Unity game development tool.",
+        "IBBT - PISA project:\nWorked on a prototype multi-touch 3D previsualization tool, intended for drama production."
+      ]
+    },
+    {
+      "company": "anaXis",
+      "position": "Software Developer",
+      "website": "",
+      "location": "Hasselt, Belgium",
+      "summary": "Worked on several custom web applications for clients, front end and back end.",
+      "isCurrentRole": false,
+      "startDate": "2004-08-01",
+      "endDate": "2006-12-01",
+      "start": {
+        "year": 2004,
+        "month": 8
+      },
+      "end": {
+        "year": 2006,
+        "month": 12
+      },
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hasselt University",
+      "area": "Computer Science",
+      "studyType": "Master's",
+      "startDate": "2000-09-01",
+      "endDate": "2004-06-01",
+      "start": {
+        "year": 2000,
+        "month": 9
+      },
+      "end": {
+        "year": 2004,
+        "month": 6
+      },
+      "description": "Wrote master's thesis on \"Free Viewpoint Video\". This thesis explored some algorithms that allow the viewer of a video dataset to freely and interactively change their viewpoint, despite the footage being recorded by only a small number of static cameras.",
+      "activities": "",
+      "gpa": "magna cum laude",
+      "courses": []
+    },
+    {
+      "institution": "Baylor University, Texas",
+      "area": "Computer Science",
+      "studyType": "Summer exchange program",
+      "startDate": "2003-07-01",
+      "endDate": "2003-08-01",
+      "start": {
+        "year": 2003,
+        "month": 7
+      },
+      "end": {
+        "year": 2003,
+        "month": 8
+      },
+      "description": "Courses on entrepreneurship, mathematics and legal issues",
+      "activities": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Heilig Hartcollege, Heusden-Zolder",
+      "area": "Mathematics - science",
+      "studyType": "High school",
+      "startDate": "1994-09-01",
+      "endDate": "2000-06-01",
+      "start": {
+        "year": 1994,
+        "month": 9
+      },
+      "end": {
+        "year": 2000,
+        "month": 6
+      },
+      "description": "",
+      "activities": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Exploring Whole-Hand Gestures in a Tabletop Environment for Urban Modeling",
+      "summary": "",
+      "publisher": "HCI International 2011",
+      "website": "https://www.researchgate.net/publication/221096339_Exploring_Whole-Hand_Gestures_in_a_Tabletop_Environment_for_Urban_Modeling",
+      "releaseDate": "2011-11-01",
+      "fullReleaseDate": {
+        "year": 2011,
+        "month": 11,
+        "day": null
+      }
+    },
+    {
+      "name": "A Spatial Immersive Office Environment for Computer-supported Collaborative Work - Moving towards the Office of the Future",
+      "summary": "",
+      "publisher": "SIGMAP 2011",
+      "website": "https://www.researchgate.net/publication/221051102_A_Spatial_Immersive_Office_Environment_for_Computer-supported_Collaborative_Work_-_Moving_towards_the_Office_of_the_Future",
+      "releaseDate": "2011-01-01",
+      "fullReleaseDate": {
+        "year": 2011,
+        "month": 1,
+        "day": null
+      }
+    },
+    {
+      "name": "Immersive Collaboration Environment",
+      "summary": "",
+      "publisher": "Towards a Service-Based Internet - Springer",
+      "website": "https://www.researchgate.net/publication/220864312_Immersive_Collaboration_Environment",
+      "releaseDate": "2010-01-01",
+      "fullReleaseDate": {
+        "year": 2010,
+        "month": 1,
+        "day": null
+      }
+    },
+    {
+      "name": "A Framework for Networked Interactive Surfaces",
+      "summary": "",
+      "publisher": "2nd Workshop on Software Engineering and Architecture for Realtime Interactive Systems, SEARIS @ VR",
+      "website": "https://www.researchgate.net/publication/254212990_A_Framework_for_Networked_Interactive_Surfaces",
+      "releaseDate": "2009-01-01",
+      "fullReleaseDate": {
+        "year": 2009,
+        "month": 1,
+        "day": null
+      }
+    },
+    {
+      "name": "A Multi-Touch 3D Set Modeler for Drama Production",
+      "summary": "",
+      "publisher": "International Broadcasting Convention, 2008, Amsterdam, The Netherlands",
+      "website": "https://www.researchgate.net/publication/282236084_A_Multi-Touch_3D_Set_Modeler_for_Drama_Production",
+      "releaseDate": "2009-01-01",
+      "fullReleaseDate": {
+        "year": 2009,
+        "month": 1,
+        "day": null
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "Senior",
+      "keywords": [
+        "HTML",
+        "CSS / SASS",
+        "JavaScript / TypeScript",
+        "Angular / Ionic",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Senior",
+      "keywords": ["Node.js", "C# / .NET", "SQL Server", "MongoDB", "Redis"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Medior",
+      "keywords": ["Azure", "AWS", "Docker"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Professional",
+      "keywords": [
+        "Automating things",
+        "Hybrid mobile apps",
+        "Progressive web apps"
+      ]
+    },
+    {
+      "name": "Personal",
+      "keywords": ["My kids", "Football", "Music", "Movies", "Poker"]
+    }
+  ],
+  "references": []
+}

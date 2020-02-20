@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx resume export dist/index.html --theme flat",
+    "build-pdf": "npx resume export dist/resume_karel_frederix.pdf"
+  },
+  "author": "Karel Frederix",
+  "license": "ISC",
+  "devDependencies": {
+    "resume-cli": "^1.2.7"
+  },
+  "dependencies": {}
+}
