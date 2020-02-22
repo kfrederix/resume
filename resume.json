@@ -241,7 +241,7 @@
     },
     {
       "name": "Backend",
-      "level": "Expert",
+      "level": "Master",
       "keywords": ["Node.js", "C# / .NET", "SQL Server", "MongoDB", "Redis"]
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "name": "Personal",
-      "keywords": ["My kids", "Football", "Music", "Movies", "Poker"]
+      "keywords": ["My wife and kids", "Football", "Music", "Movies"]
     }
   ],
   "references": []
