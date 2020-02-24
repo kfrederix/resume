@@ -6,7 +6,7 @@
     "email": "karelfrederix@gmail.com",
     "phone": "+32 (0)479 446 121",
     "website": "http://karel.frederix.be",
-    "summary": "I’m a full stack developer with a passion for modern web technology. I can build applications from the ground up, from backend architecture to frontend implementation. I enjoy fiddling with new tools/frameworks/servers, acquiring new skills along the way.\n\nI am also a proud father of 2 beautiful children. And in my free time, I try to spend as much time with them as possible.",
+    "summary": "I’m a full stack developer with a passion for modern web technology. I can build applications from the ground up, from backend architecture to frontend implementation. I enjoy fiddling with new tools/frameworks/servers, acquiring new skills along the way.\n\nI am also a proud father of 2 beautiful children, and an amateur football player.",
     "location": {
       "city": "Hasselt",
       "countryCode": "BE",
@@ -16,6 +16,11 @@
       {
         "network": "LinkedIn",
         "url": "https://linkedin.com/in/kfrederix",
+        "username": "kfrederix"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/kfrederix",
         "username": "kfrederix"
       }
     ]
@@ -229,6 +234,11 @@
   ],
   "skills": [
     {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": ["Node.js", "C# / .NET", "SQL Server", "MongoDB", "Redis"]
+    },
+    {
       "name": "Frontend",
       "level": "Advanced",
       "keywords": [
@@ -240,14 +250,9 @@
       ]
     },
     {
-      "name": "Backend",
-      "level": "Master",
-      "keywords": ["Node.js", "C# / .NET", "SQL Server", "MongoDB", "Redis"]
-    },
-    {
       "name": "DevOps",
       "level": "Intermediate",
-      "keywords": ["Azure", "AWS", "Docker"]
+      "keywords": ["Docker", "Azure"]
     }
   ],
   "languages": [
@@ -265,13 +270,13 @@
       "name": "Professional",
       "keywords": [
         "Automating things",
-        "Hybrid mobile apps",
-        "Progressive web apps"
+        "Learning new things",
+        "Creating quality software"
       ]
     },
     {
       "name": "Personal",
-      "keywords": ["My wife and kids", "Football", "Music", "Movies"]
+      "keywords": ["My wife and kids", "Nature", "Football", "Music", "Movies"]
     }
   ],
   "references": []
