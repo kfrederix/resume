@@ -2,10 +2,10 @@
   "basics": {
     "name": "Karel Frederix",
     "picture": "https://avatars0.githubusercontent.com/u/3974918?v=4",
-    "label": "Senior software developer",
+    "label": "Software engineer",
     "email": "karelfrederix@gmail.com",
     "phone": "+32 (0)479 446 121",
-    "website": "http://karel.frederix.be",
+    "website": "https://karel.frederix.be",
     "summary": "I’m a full stack software developer with a passion for modern web technology. I can build applications from the ground up, from backend architecture to frontend implementation. I enjoy fiddling with new tools/frameworks/servers, acquiring new skills along the way.\n\nI am also a proud father of 2 beautiful children, and an amateur football player.",
     "location": {
       "city": "Hasselt",
@@ -250,9 +250,9 @@
       ]
     },
     {
-      "name": "DevOps",
+      "name": "Operations",
       "level": "Intermediate",
-      "keywords": ["Docker", "Azure"]
+      "keywords": ["Docker", "Azure", "Jenkins"]
     }
   ],
   "languages": [
@@ -276,7 +276,7 @@
     },
     {
       "name": "Personal",
-      "keywords": ["My wife and kids", "Nature", "Football", "Music", "Movies"]
+      "keywords": ["Family", "Nature", "Snowboarding", "Ubbersel"]
     }
   ],
   "references": []
