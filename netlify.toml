@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://frederix.be"
+  to = "https://karel.frederix.be"
+  status = 301
+  force = true
